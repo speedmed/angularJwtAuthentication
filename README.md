@@ -1,4 +1,6 @@
-# NgJwtAuthentication
+# angularJwtAuthentication
+
+Project demonstrating how to implement JWT (JSON Web Token) Authentication in an Angular App using HttpClient, HttpInterceptor, and protecting routes using Angular's Guard system.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
